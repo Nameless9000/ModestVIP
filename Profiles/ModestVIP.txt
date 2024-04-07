@@ -1,0 +1,70 @@
+Finished Tutorial: Yes
+Understands Commands: Yes
+Understands Sliders: Yes
+Understands Profiles: Yes
+Understands Context Menu: Yes
+Understands Command Chaining: Yes
+Tree Compatibility Version: 51
+Stand
+	Settings
+		Appearance
+			Colours
+				Primary Colour: EDD068C0
+				Focused Text Colour: 093144FF
+				Focused Right-Bound Text Colour: 093144C0
+				Focused Texture Colour: 093144C0
+				Background Colour: 093145C0
+				Unfocused Text Colour: F2F2F2C0
+				Unfocused Right-Bound Text Colour: F2F2F2C0
+				Unfocused Texture Colour: F2F2F2C0
+				HUD Colour: 093144C0
+				AR Colour: 093144C0
+				Minigame Colour: 093144C0
+			Position: 600, 40
+			Address Bar
+				Address Bar: Off
+				Root Name: Hidden
+			Cursor
+				Colour: EDD068FF
+			Tabs
+				Tabs: Off
+			Scrollbar
+				Scrollbar: Disabled
+			Command Info Text
+				Position: Bottom
+				Show Command Syntax: Off
+				Indicate Slider Behaviour: Off
+				Indicate If Usable By Other Players: Off
+				Show Owning Script: Off
+			Notifications
+				Type: Game
+				Custom Position: 762, 64
+				Border Colour: 093144C0
+				Flash Colour: EDD068FF
+			Commands
+				Text
+					Scale: 12
+					X Offset: 0
+					Y Offset: 0
+			Max Visible Commands: 50
+			List Width: 350
+			List Height: 20
+			Spacer Size: 5
+			Smooth Scrolling: 0
+			Background Blur: 0
+			Font & Text
+				Small Text
+					X Offset: 0
+		Input
+			Back Closes Menu: On
+		Info Text
+			Scale: 15
+		Session Joining
+			Check If Join Will Succeed: On
+		Open After Injection: On
+		Menu Navigation Reminders: Off
+	Lua Scripts
+		ModestVIP
+			InitialMenu: On, Disable Internet Access
+			MainMenu: On, Disable Internet Access
+	Console: On
